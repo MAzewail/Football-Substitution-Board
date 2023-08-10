@@ -22,7 +22,7 @@ The system allows you to change player numbers, reset the display, adjust the ti
 **[TinkerCad link](https://www.tinkercad.com/things/eWcxSeMfmA5)**
 
 Project circuit diagram:
-!(https://github.com/MAzewail/Football-Substitution-Board/blob/main/Football%20Substitution%20Board.png)
+![https://github.com/MAzewail/Football-Substitution-Board/blob/main/Football%20Substitution%20Board.png]
 
 ## Features
 
