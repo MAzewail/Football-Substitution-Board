@@ -41,7 +41,7 @@ To set up and run this project, you will need the following hardware components:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/football-substitution-board.git
+   git clone https://github.com/MAzewail/football-substitution-board.git
    ```
 
 1. Connect the hardware components (seven-segment displays and push buttons) to your microcontroller board based on the circuit diagram provided.
