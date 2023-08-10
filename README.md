@@ -19,10 +19,10 @@ The Football Substitution Board project is designed to provide a digital substit
 
 The system allows you to change player numbers, reset the display, adjust the time up and down, and select different modes based on the duration of button presses.
 
-[TinkerCad link](https://www.tinkercad.com/things/eWcxSeMfmA5)
+**[TinkerCad link](https://www.tinkercad.com/things/eWcxSeMfmA5)**
 
 Project circuit diagram:
-
+!(https://github.com/MAzewail/Football-Substitution-Board/blob/main/Football%20Substitution%20Board.png)
 
 ## Features
 
