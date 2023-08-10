@@ -6,6 +6,7 @@ Welcome to the Football Substitution Board GitHub repository! This project aims 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Circuit Diagram](#Circuit-Diagram)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Installation](#installation)
@@ -21,7 +22,8 @@ The system allows you to change player numbers, reset the display, adjust the ti
 
 **[TinkerCad link](https://www.tinkercad.com/things/eWcxSeMfmA5)**
 
-Project circuit diagram:
+## Circuit Diagram
+
 ![](https://github.com/MAzewail/Football-Substitution-Board/blob/main/Football%20Substitution%20Board.png)
 
 ## Features
