@@ -2,7 +2,6 @@
 
 Welcome to the Football Substitution Board GitHub repository! This project aims to recreate the functionality of a substitution board used in football matches using two seven-segment displays and six push buttons. The push buttons allow for changing numbers, resetting, adjusting time, and selecting different modes based on the duration of button presses.
 
-[TinkerCad link](https://www.tinkercad.com/things/eWcxSeMfmA5)
 
 ## Table of Contents
 
@@ -19,6 +18,11 @@ Welcome to the Football Substitution Board GitHub repository! This project aims 
 The Football Substitution Board project is designed to provide a digital substitute for the traditional substitution board used in football matches. It utilizes two seven-segment displays to show the player numbers, and six push buttons for various functionalities.
 
 The system allows you to change player numbers, reset the display, adjust the time up and down, and select different modes based on the duration of button presses.
+
+[TinkerCad link](https://www.tinkercad.com/things/eWcxSeMfmA5)
+
+Project circuit diagram:
+
 
 ## Features
 
