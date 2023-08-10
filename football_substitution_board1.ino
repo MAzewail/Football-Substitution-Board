@@ -37,7 +37,6 @@ byte nums[11][7]={
   {0,0,0,0,0,0,0}};
 
 void sev1(uint8_t n10){
-  //n10=(n10==0)?10:n10;
   for(int i=0;i<7;i++)
     digitalWrite(s1[i],*((*nums)+i+(7*n10)));    
 }
