@@ -51,8 +51,6 @@ void setup()
     pinMode(i, OUTPUT);
   for(byte i=14;i<20;i++)
   pinMode(i,INPUT_PULLUP);
-//  pinMode(A2,INPUT_PULLUP);
-  //Serial.begin(9600);
 }
 void loop()
 {
@@ -71,8 +69,6 @@ void loop()
 
 void wait(){
   if(!digitalRead(SWITCH_DEALY)){delay_flag=!delay_flag;while(!digitalRead(SWITCH_DEALY));}
-  //Serial.println(delay_time);
-  //delay_flag=(!digitalRead(SWITCH_DEALY))?(!delay_flag):delay_flag;delay(250);
   if(!digitalRead(TIME_UP)){delay_time+=100;while(!digitalRead(TIME_UP));}
   else if(!digitalRead(TIME_DOWN)){delay_time-=100;while(!digitalRead(TIME_DOWN));}
   delay_time=constrain(delay_time,0,5000);
